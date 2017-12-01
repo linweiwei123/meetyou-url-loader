@@ -1,6 +1,6 @@
 {
   "name": "meetyou-url-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "meetyou url loader,change url without remove it's paramter",
   "main": "index.js",
   "dependencies": {},
