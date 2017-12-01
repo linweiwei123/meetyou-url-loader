@@ -3,7 +3,7 @@
 npm install meetyou-url-loader --save
 
 # github
-https://github.com/linweiwei123/meetyou-file-loader
+https://github.com/linweiwei123/meetyou-url-loader
 
 # Example
 
