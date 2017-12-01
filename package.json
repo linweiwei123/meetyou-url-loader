@@ -1,0 +1,40 @@
+{
+  "name": "meetyou-url-loader",
+  "version": "1.0.3",
+  "description": "meetyou url loader,change url without remove it's paramter",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linweiwei123/meetyou-url-loader.git"
+  },
+  "keywords": [
+    "meetyou",
+    "url",
+    "loader",
+    "change",
+    "url",
+    "without",
+    "remove",
+    "it's",
+    "parameter"
+  ],
+  "author": "linweiwie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linweiwei123/meetyou-url-loader/issues"
+  },
+  "homepage": "https://github.com/linweiwei123/meetyou-url-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.0.2",
+    "mime": "1.3.x",
+    "meetyou-file-loader": "*"
+  },
+  "devDependencies": {
+    "standard-version": "^4.0.0"
+  }
+}
